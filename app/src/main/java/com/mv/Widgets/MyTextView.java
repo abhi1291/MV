@@ -11,7 +11,7 @@ import com.mv.R;
 
 
 public class
-MyTextView extends TextView {
+MyTextView extends android.support.v7.widget.AppCompatTextView {
 
     public MyTextView(Context context, AttributeSet attrs) {
         super(context, attrs);
